@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-google-genai
+streamlit
+python-dotenv
+pypdf
+langgraph
+langchain
+langchain-google-genai
+streamlit
+python-dotenv
+pypdf
+scikit-learn
